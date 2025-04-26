@@ -7,6 +7,7 @@ This project aims to analyze customer churn within a telecom company, identifyin
 - To identify patterns and trends in customer churn.
 - To understand the impact of various customer attributes on churn.
 - To provide actionable insights for reducing customer churn rates.
+- ![Image](https://github.com/user-attachments/assets/d7e36e19-3794-4dfb-a7da-37ccd823966a)
 
 **Data Source**
 The analysis is based on a comprehensive dataset of telecom customers, including demographics, service usage patterns, billing information, and churn status.
@@ -14,7 +15,7 @@ The analysis is based on a comprehensive dataset of telecom customers, including
 **Project Tools/Structure**
 - **SQL Scripts:** Contains all SQL queries used for data analysis.
 - **Power BI Dashboard:** An interactive dashboard providing insights into customer churn.
-
+- ![Image](https://github.com/user-attachments/assets/e1f7b071-5efe-47bd-9f6f-f5c15884018e)
 
 **Full Project Article**
 This repository contains the SQL Query written to analyze this dataset. It provides a comprehensive analysis of customer churn patterns and offers valuable recommendations to reduce churn rates.
