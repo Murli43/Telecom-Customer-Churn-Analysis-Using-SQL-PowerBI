@@ -15,8 +15,6 @@ The analysis is based on a comprehensive dataset of telecom customers, including
 - **SQL Scripts:** Contains all SQL queries used for data analysis.
 - **Power BI Dashboard:** An interactive dashboard providing insights into customer churn.
 
-- [PowerBI Report] (PowerBI-dashboard-graphics.png)
-
 
 **Full Project Article**
 This repository contains the SQL Query written to analyze this dataset. It provides a comprehensive analysis of customer churn patterns and offers valuable recommendations to reduce churn rates.
